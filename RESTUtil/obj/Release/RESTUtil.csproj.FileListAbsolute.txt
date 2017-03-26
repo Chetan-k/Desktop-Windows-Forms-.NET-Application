@@ -1,0 +1,4 @@
+C:\Users\dsbics\Desktop\VisualStudio Files (weeks 10-15)\2158\9a\Project3Test\RESTUtil\bin\Release\RESTUtil.dll
+C:\Users\dsbics\Desktop\VisualStudio Files (weeks 10-15)\2158\9a\Project3Test\RESTUtil\bin\Release\RESTUtil.pdb
+C:\Users\dsbics\Desktop\VisualStudio Files (weeks 10-15)\2158\9a\Project3Test\RESTUtil\obj\Release\RESTUtil.dll
+C:\Users\dsbics\Desktop\VisualStudio Files (weeks 10-15)\2158\9a\Project3Test\RESTUtil\obj\Release\RESTUtil.pdb
